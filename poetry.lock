@@ -912,14 +912,14 @@ files = [
 
 [[package]]
 name = "starlite"
-version = "1.51.0"
+version = "1.51.7"
 description = "Performant, light and flexible ASGI API Framework"
 category = "dev"
 optional = false
 python-versions = ">=3.8,<4.0"
 files = [
-    {file = "starlite-1.51.0-py3-none-any.whl", hash = "sha256:fe46288338e5ca519e81522f6b61b05f6afa86632c4907f6e714ce27c5803678"},
-    {file = "starlite-1.51.0.tar.gz", hash = "sha256:414983c43e2650f9f48b1cba5f929c9dbd3028a083c970595f3b69a169dc9c68"},
+    {file = "starlite-1.51.7-py3-none-any.whl", hash = "sha256:f3b4d5b6a91a1045205e71a9ef2c289235b0457eacb551c34a186397959b82aa"},
+    {file = "starlite-1.51.7.tar.gz", hash = "sha256:7e4b25f002d8edbf928f1588d1e7eb85375c6ed0834c190072af662403110af6"},
 ]
 
 [package.dependencies]
@@ -1016,4 +1016,4 @@ testing = ["coverage (>=6.2)", "coverage-enable-subprocess (>=1)", "flaky (>=3.7
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "c2eac4316a5b42b032d1bb6e4ba8da64fe6e70fdd2c8245da68d160da14f04cc"
+content-hash = "652c637eaa11178ec09a6f27f236dd5c3b67f810126ae634e22824ce6673e66b"
